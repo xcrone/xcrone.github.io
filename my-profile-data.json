@@ -1,7 +1,7 @@
 {
   "color": {
-    "light": "#3d8f3d",
-    "dark": "#69f369"
+    "light": "red",
+    "dark": "blue"
   },
   "main": {
     "name": "Mohamed Zahiruddin",
