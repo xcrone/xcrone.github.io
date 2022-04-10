@@ -14,29 +14,29 @@
   "about_me": "Individuals who are eager to carry out and complete tasks. Who want to learn and explore more about development operation and IT security.",
   "experiences": [
     {
-      "date_range": "January 2020 - March 2020",
+      "date_range": "Jan 2020 - Mar 2020",
       "division": "Web Developer (Internship)",
       "organization": "Dreamcode Solutions Sdn Bhd"
     },
     {
-      "date_range": "August 2020 - July 2021",
+      "date_range": "Aug 2020 - Jul 2021",
       "division": "Junior Security DevOps",
       "organization": "Gemas Lestari Sdn Bhd"
     },
     {
-      "date_range": "August 2021 - Present",
+      "date_range": "Aug 2021 - Present",
       "division": "Full Stack Developer",
       "organization": "Gemas Lestari Sdn Bhd"
     }
   ],
   "educations": [
     {
-      "date_range": "February 2016 - December 2017",
+      "date_range": "Feb 2016 - Dec 2017",
       "certificate": "Sijil Pengurusan Pangkalan Data dan Aplikasi Web",
       "organization": "Kolej Vokasional Shah Alam"
     },
     {
-      "date_range": "January 2018 - August 2020",
+      "date_range": "Jan 2018 - Aug 2020",
       "certificate": "Diploma Pengurusan Pangkalan Data dan Aplikasi Web",
       "organization": "Kolej Vokasional Shah Alam"
     }
