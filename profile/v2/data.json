@@ -1,0 +1,356 @@
+{
+  "color": {
+    "light": "red",
+    "dark": "#009127"
+  },
+  "main": {
+    "name": "Mohamed Zahiruddin",
+    "position": "Full-Stack Developer",
+    "email": "mail@zahir.my",
+    "short_address": "Kajang, 43000",
+    "dob": "15 April 2000",
+    "url": "https://i.ibb.co/fXRSDQj/IMG-0932.jpg"
+  },
+  "about_me": "Individuals who are eager to carry out and complete tasks. Who want to learn and explore more about development operation and IT security.",
+  "experiences": [
+    {
+      "from": "2020-01",
+      "to": "2020-03",
+      "division": "Web Developer (Internship)",
+      "organization": "Dreamcode Solutions Sdn Bhd"
+    },
+    {
+      "from": "2020-08",
+      "to": "2021-07",
+      "division": "Junior Security DevOps",
+      "organization": "Gemas Lestari Sdn Bhd"
+    },
+    {
+      "from": "2021-08",
+      "to": null,
+      "division": "Full Stack Developer",
+      "organization": "Gemas Lestari Sdn Bhd"
+    }
+  ],
+  "educations": [
+    {
+      "date_range": "Feb 2016 - Dec 2017",
+      "certificate": "Sijil Pengurusan Pangkalan Data dan Aplikasi Web",
+      "organization": "Kolej Vokasional Shah Alam"
+    },
+    {
+      "date_range": "Jan 2018 - Aug 2020",
+      "certificate": "Diploma Pengurusan Pangkalan Data dan Aplikasi Web",
+      "organization": "Kolej Vokasional Shah Alam"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Language",
+      "skills": [
+        {
+          "name": "Python",
+          "percent": 50
+        },
+        {
+          "name": "PHP",
+          "percent": 90
+        },
+        {
+          "name": "HTML",
+          "percent": 90
+        },
+        {
+          "name": "CSS",
+          "percent": 80
+        },
+        {
+          "name": "SASS",
+          "percent": 80
+        },
+        {
+          "name": "JavaScript",
+          "percent": 90
+        },
+        {
+          "name": "Ruby",
+          "percent": 50
+        },
+        {
+          "name": "Dart",
+          "percent": 70
+        },
+        {
+          "name": "Solidity",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "skills": [
+        {
+          "name": "Laravel",
+          "percent": 90
+        },
+        {
+          "name": "Flutter",
+          "percent": 70
+        },
+        {
+          "name": "Android Studio",
+          "percent": 70
+        },
+        {
+          "name": "Truffle",
+          "percent": 70
+        },
+        {
+          "name": "Web3",
+          "percent": 70
+        },
+        {
+          "name": "Ruby on Rails",
+          "percent": 30
+        },
+        {
+          "name": "Node.js",
+          "percent": 80
+        },
+        {
+          "name": "ReactJs",
+          "percent": 70
+        },
+        {
+          "name": "ReactNative",
+          "percent": 50
+        },
+        {
+          "name": "VueJs",
+          "percent": 90
+        }
+      ]
+    },
+    {
+      "category": "Infrastucture",
+      "skills": [
+        {
+          "name": "Docker",
+          "percent": 70
+        },
+        {
+          "name": "Ubuntu Server",
+          "percent": 80
+        },
+        {
+          "name": "CentOS/RedHat",
+          "percent": 50
+        },
+        {
+          "name": "Kali Linux",
+          "percent": 50
+        },
+        {
+          "name": "AWS",
+          "percent": 30
+        },
+        {
+          "name": "DigitalOcean",
+          "percent": 70
+        },
+        {
+          "name": "Cloudflare",
+          "percent": 50
+        },
+        {
+          "name": "RunCloud",
+          "percent": 70
+        },
+        {
+          "name": "MySQL",
+          "percent": 90
+        },
+        {
+          "name": "PostgreSQL",
+          "percent": 30
+        },
+        {
+          "name": "MongoDB",
+          "percent": 30
+        }
+      ]
+    },
+    {
+      "category": "Work Environment",
+      "skills": [
+        {
+          "name": "GitHub",
+          "percent": 90
+        },
+        {
+          "name": "GitLab",
+          "percent": 90
+        },
+        {
+          "name": "BitBucket",
+          "percent": 70
+        },
+        {
+          "name": "Trello",
+          "percent": 70
+        },
+        {
+          "name": "Atlassian",
+          "percent": 30
+        },
+        {
+          "name": "Postman",
+          "percent": 70
+        },
+        {
+          "name": "Ganache",
+          "percent": 40
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Malay",
+      "types": [
+        {
+          "type": "Native Speaker",
+          "percent": 90
+        },
+        {
+          "type": "Working Knowledge",
+          "percent": 80
+        },
+        {
+          "type": "Writing",
+          "percent": 60
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "types": [
+        {
+          "type": "Native Speaker",
+          "percent": 70
+        },
+        {
+          "type": "Working Knowledge",
+          "percent": 70
+        },
+        {
+          "type": "Writing",
+          "percent": 60
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/xcrone"
+    },
+    {
+      "name": "Facebook",
+      "icon": "facebook",
+      "url": "https://www.facebook.com/zahirzettabyte"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": null
+    },
+    {
+      "name": "Twitter",
+      "icon": "twitter",
+      "url": null
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/zahir-din-6a6b8418b/"
+    },
+    {
+      "name": "YouTube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/channel/UCoQVb7gpJnoMtETatY0Ea6w"
+    }
+  ],
+  "references": [
+    {
+      "name": "Mohd Fazli Azran",
+      "organization": "Gemas Lestari Sdn Bhd",
+      "email": "fazli@glsb.my",
+      "phone_no": "+6010-8111181"
+    },
+    {
+      "name": "Mohamad Zulfahmy",
+      "organization": "Gemas Lestari Sdn Bhd",
+      "email": "mzulfahmy@glsb.my",
+      "phone_no": "+6011-115057777"
+    }
+  ],
+  "certificates": [
+    {
+      "url": "https://i.ibb.co/wLPWcrP/Scan.jpg",
+      "title": "Malaysian Skills Diploma",
+      "date": "20 April 2022"
+    },
+    {
+      "url": "https://i.ibb.co/G0Hcwfw/1.jpg",
+      "title": "Laravel 2022",
+      "date": "11 March 2022"
+    },
+    {
+      "url": "https://i.ibb.co/zN6XXVc/2.jpg",
+      "title": "MBOT Qualified Technician",
+      "date": "22 February 2022"
+    },
+    {
+      "url": "https://i.ibb.co/k4CcNM4/Tenaga-Pengajar-PARC-2021-page-0001.jpg",
+      "title": "Sijil Penghargaan tenaga pengajar di PARC (Putera Army Rileks Community)",
+      "date": "20 November 2021"
+    },
+    {
+      "url": "https://i.ibb.co/6DXcfqS/Master-Ethereum-Solidity-Programming-page-0001.jpg",
+      "title": "Master Ethereum & Solidity Programming From Scratch in 2021 online course",
+      "date": "11 July 2021"
+    },
+    {
+      "url": "https://i.ibb.co/1Z4rY7j/Diploma-Database-Management-System-and-Web-Application-Technology-page-0001.jpg",
+      "title": "Diploma in Database Management System And Web Application Technology",
+      "date": "27 August 2020"
+    },
+    {
+      "url": "https://i.ibb.co/JnFw6Vv/Flutter-Development-with-Dart-page-0001.jpg",
+      "title": "Flutter Development Bootcamp with Dart online course",
+      "date": "1 December 2019"
+    },
+    {
+      "url": "https://i.ibb.co/vwPyPJf/Io-T-Hackathon-page-0001.jpg",
+      "title": "Smart School IoT HACKATHON 2019",
+      "date": "23 November 2019"
+    },
+    {
+      "url": "https://i.ibb.co/5KNBbxq/Linux-Server-Administrator-Workshop-page-0001.jpg",
+      "title": "Linux Server Administrator Workshop",
+      "date": "25 September 2019"
+    },
+    {
+      "url": "https://i.ibb.co/SwBVXqX/Web-Application-Penetration-Testing-page-0001.jpg",
+      "title": "Web Application Penetration Testing",
+      "date": "27 July 2019"
+    },
+    {
+      "url": "https://i.ibb.co/N30zjKg/Linux-for-Web-Server-page-0001.jpg",
+      "title": "Linux for Web Server",
+      "date": "20 July 2019"
+    }
+  ]
+}
