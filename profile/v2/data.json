@@ -16,31 +16,33 @@
     {
       "from": "2020-01",
       "to": "2020-03",
-      "division": "Web Developer (Internship)",
+      "badge": "Web Developer (Internship)",
       "organization": "Dreamcode Solutions Sdn Bhd"
     },
     {
       "from": "2020-08",
       "to": "2021-07",
-      "division": "Junior Security DevOps",
+      "badge": "Junior Security DevOps",
       "organization": "Gemas Lestari Sdn Bhd"
     },
     {
       "from": "2021-08",
       "to": null,
-      "division": "Full Stack Developer",
+      "badge": "Full Stack Developer",
       "organization": "Gemas Lestari Sdn Bhd"
     }
   ],
   "educations": [
     {
-      "date_range": "Feb 2016 - Dec 2017",
-      "certificate": "Sijil Pengurusan Pangkalan Data dan Aplikasi Web",
+      "from": "2016-02",
+      "to": "2017-12",
+      "badge": "Sijil Pengurusan Pangkalan Data dan Aplikasi Web",
       "organization": "Kolej Vokasional Shah Alam"
     },
     {
-      "date_range": "Jan 2018 - Aug 2020",
-      "certificate": "Diploma Pengurusan Pangkalan Data dan Aplikasi Web",
+      "from": "2018-01",
+      "to": "2020-08",
+      "badge": "Diploma Pengurusan Pangkalan Data dan Aplikasi Web",
       "organization": "Kolej Vokasional Shah Alam"
     }
   ],
