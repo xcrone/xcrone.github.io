@@ -67,5 +67,143 @@
             "text": "Ok2",
             "datetime": "2022-11-29 06:22:37.271837"
         }
+    },
+    {
+        "uuid": "je82e9y2hug389g92g3093392h324",
+        "title": "College Team",
+        "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 12,
+        "last_message": {
+            "from": "Hadi",
+            "text": "Hidup YB!!!!",
+            "datetime": "2022-12-27 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "2i9b2gvv3jnr382uj4hr49hnud9020",
+        "title": "Aiman Harith",
+        "img_path": "img/default.jpg",
+        "silent": false,
+        "type": "P",
+        "unread_total": 0,
+        "last_message": {
+            "from": null,
+            "is_sent": true,
+            "is_readed": false, 
+            "text": "Orait",
+            "datetime": "2022-12-25 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "fv8309hhf673al6jha8jnf9i4jf44v34",
+        "title": "Roommate 🏚️🏠",
+        "img_path": "img/fv8309hhf673al6jha8jnf9i4jf44v34.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 2,
+        "last_message": {
+            "from": "Mamat",
+            "text": "Nk order x?",
+            "datetime": "2022-12-23 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "je82e9y2hug389g92g3093392h324",
+        "title": "College Team",
+        "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 12,
+        "last_message": {
+            "from": null,
+            "text": "Yeahhhhh",
+            "datetime": "2022-12-11 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "2i9b2gvv3jnr382uj4hr49hnud9020",
+        "title": "Aiman Harith",
+        "img_path": "img/default.jpg",
+        "silent": false,
+        "type": "P",
+        "unread_total": 0,
+        "last_message": {
+            "from": "Aiman Harith",
+            "is_sent": true,
+            "is_readed": false, 
+            "text": "Ok2",
+            "datetime": "2022-11-29 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "je82e9y2hug389g92g3093392h324",
+        "title": "College Team",
+        "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 12,
+        "last_message": {
+            "from": "Hadi",
+            "text": "Hidup YB!!!!",
+            "datetime": "2022-12-27 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "2i9b2gvv3jnr382uj4hr49hnud9020",
+        "title": "Aiman Harith",
+        "img_path": "img/default.jpg",
+        "silent": false,
+        "type": "P",
+        "unread_total": 0,
+        "last_message": {
+            "from": null,
+            "is_sent": true,
+            "is_readed": false, 
+            "text": "Orait",
+            "datetime": "2022-12-25 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "fv8309hhf673al6jha8jnf9i4jf44v34",
+        "title": "Roommate 🏚️🏠",
+        "img_path": "img/fv8309hhf673al6jha8jnf9i4jf44v34.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 2,
+        "last_message": {
+            "from": "Mamat",
+            "text": "Nk order x?",
+            "datetime": "2022-12-23 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "je82e9y2hug389g92g3093392h324",
+        "title": "College Team",
+        "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
+        "silent": false,
+        "type": "G",
+        "unread_total": 12,
+        "last_message": {
+            "from": null,
+            "text": "Yeahhhhh",
+            "datetime": "2022-12-11 06:22:37.271837"
+        }
+    },
+    {
+        "uuid": "2i9b2gvv3jnr382uj4hr49hnud9020",
+        "title": "Aiman Harith",
+        "img_path": "img/default.jpg",
+        "silent": false,
+        "type": "P",
+        "unread_total": 0,
+        "last_message": {
+            "from": "Aiman Harith",
+            "is_sent": true,
+            "is_readed": false, 
+            "text": "Ok2",
+            "datetime": "2022-11-29 06:22:37.271837"
+        }
     }
 ]
