@@ -4,6 +4,7 @@
         "title": "College Team",
         "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
         "silent": false,
+        "type": "G",
         "unread_total": 12,
         "last_message": {
             "from": "Hadi",
@@ -16,6 +17,7 @@
         "title": "Aiman Harith",
         "img_path": "img/default.jpg",
         "silent": false,
+        "type": "P",
         "unread_total": 0,
         "last_message": {
             "from": null,
@@ -30,6 +32,7 @@
         "title": "Roommate 🏚️🏠",
         "img_path": "img/fv8309hhf673al6jha8jnf9i4jf44v34.jpg",
         "silent": false,
+        "type": "G",
         "unread_total": 2,
         "last_message": {
             "from": "Mamat",
@@ -42,10 +45,11 @@
         "title": "College Team",
         "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
         "silent": false,
+        "type": "G",
         "unread_total": 12,
         "last_message": {
-            "from": "Hadi",
-            "text": "Hidup YB!!!!",
+            "from": null,
+            "text": "Yeahhhhh",
             "datetime": "2022-12-11 06:22:37.271837"
         }
     },
@@ -54,12 +58,13 @@
         "title": "Aiman Harith",
         "img_path": "img/default.jpg",
         "silent": false,
+        "type": "P",
         "unread_total": 0,
         "last_message": {
-            "from": null,
+            "from": "Aiman Harith",
             "is_sent": true,
             "is_readed": false, 
-            "text": "Orait",
+            "text": "Ok2",
             "datetime": "2022-11-29 06:22:37.271837"
         }
     }
