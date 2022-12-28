@@ -44,7 +44,7 @@
         "uuid": "je82e9y2hug389g92g3093392h324",
         "title": "College Team",
         "img_path": "img/je82e9y2hug389g92g3093392h324.jpg",
-        "silent": false,
+        "silent": true,
         "type": "G",
         "unread_total": 12,
         "last_message": {
