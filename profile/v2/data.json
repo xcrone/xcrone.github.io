@@ -153,10 +153,6 @@
       "category": "Infrastucture",
       "skills": [
         {
-          "name": "Docker",
-          "percent": 70
-        },
-        {
           "name": "Ubuntu Server",
           "percent": 80
         },
@@ -190,11 +186,15 @@
         },
         {
           "name": "PostgreSQL",
-          "percent": 30
+          "percent": 80
         },
         {
           "name": "MongoDB",
           "percent": 30
+        },
+        {
+          "name": "ElasticSearch",
+          "percent": 70
         }
       ]
     },
@@ -202,35 +202,27 @@
       "category": "DevOps",
       "skills": [
         {
-          "name": "GitHub",
+          "name": "Docker",
+          "percent": 85
+        },
+        {
+          "name": "GitHub Action",
+          "percent": 85
+        },
+        {
+          "name": "GitLab CICD",
+          "percent": 80
+        },
+        {
+          "name": "Jira",
           "percent": 90
-        },
-        {
-          "name": "GitLab",
-          "percent": 90
-        },
-        {
-          "name": "BitBucket",
-          "percent": 70
-        },
-        {
-          "name": "Trello",
-          "percent": 70
-        },
-        {
-          "name": "Atlassian",
-          "percent": 30
-        },
-        {
-          "name": "Postman",
-          "percent": 70
-        },
-        {
-          "name": "Ganache",
-          "percent": 40
         },
         {
           "name": "Slack",
+          "percent": 80
+        },
+        {
+          "name": "AWS Lambda",
           "percent": 80
         }
       ]
