@@ -5,13 +5,13 @@
   },
   "main": {
     "name": "Mohamed Zahiruddin",
-    "position": "Full-Stack Developer",
+    "position": "Full-Stack Developer & DevOps Engineer",
     "email": "mail@zahir.my",
     "short_address": "Kajang, 43000",
     "dob": "15 April 2000",
     "url": "https://i.ibb.co/fXRSDQj/IMG-0932.jpg"
   },
-  "about_me": "Individuals who are eager to carry out and complete tasks. Who want to learn and explore more about development operation and IT security.",
+  "about_me": "A dedicated Full Stack Developer with a passion for optimizing operations. In addition to my development skills, I've assumed leadership roles within teams, demonstrating a solid grasp of DevOps principles. My expertise includes implementing CI/CD automation to streamline processes and boost efficiency, ensuring successful project outcomes. Driven by a commitment to innovation, I continuously seek opportunities to enhance operations and drive project success.",
   "experiences": [
     {
       "from": "2020-01",
@@ -27,9 +27,21 @@
     },
     {
       "from": "2021-08",
-      "to": null,
-      "badge": "Full Stack Developer",
+      "to": "2022-08",
+      "badge": "Full-Stack Developer",
       "organization": "Gemas Lestari Sdn Bhd"
+    },
+    {
+      "from": "2022-09",
+      "to": "2023-12",
+      "badge": "Team Lead Developer",
+      "organization": "Gemas Lestari Sdn Bhd"
+    },
+    {
+      "from": "2024-01",
+      "to": null,
+      "badge": "Senior Full-Stack Developer",
+      "organization": "Supplycart Sdn Bhd"
     }
   ],
   "educations": [
@@ -85,6 +97,10 @@
         {
           "name": "Solidity",
           "percent": 70
+        },
+        {
+          "name": "Bash",
+          "percent": 60
         }
       ]
     },
@@ -154,7 +170,7 @@
         },
         {
           "name": "AWS",
-          "percent": 30
+          "percent": 60
         },
         {
           "name": "DigitalOcean",
@@ -183,7 +199,7 @@
       ]
     },
     {
-      "category": "Work Environment",
+      "category": "DevOps",
       "skills": [
         {
           "name": "GitHub",
@@ -212,6 +228,10 @@
         {
           "name": "Ganache",
           "percent": 40
+        },
+        {
+          "name": "Slack",
+          "percent": 80
         }
       ]
     }
@@ -239,15 +259,15 @@
       "types": [
         {
           "type": "Native Speaker",
-          "percent": 70
+          "percent": 60
         },
         {
           "type": "Working Knowledge",
-          "percent": 70
+          "percent": 60
         },
         {
           "type": "Writing",
-          "percent": 60
+          "percent": 70
         }
       ]
     }
@@ -281,7 +301,7 @@
     {
       "name": "YouTube",
       "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCoQVb7gpJnoMtETatY0Ea6w"
+      "url": null
     }
   ],
   "references": [
