@@ -267,34 +267,46 @@
   ],
   "links": [
     {
-      "name": "GitHub",
+      "platform": "GitHub",
       "icon": "github",
+      "name": "xcrone",
       "url": "https://github.com/xcrone"
     },
     {
-      "name": "Facebook",
+      "platform": "Facebook",
       "icon": "facebook",
+      "name": "zahirzettabyte",
       "url": "https://www.facebook.com/zahirzettabyte"
     },
     {
-      "name": "Instagram",
+      "platform": "Instagram",
       "icon": "instagram",
+      "name": null,
       "url": null
     },
     {
-      "name": "Twitter",
+      "platform": "Twitter",
       "icon": "twitter",
+      "name": null,
       "url": null
     },
     {
-      "name": "LinkedIn",
+      "platform": "LinkedIn",
       "icon": "linkedin",
+      "name": "zahir-din",
       "url": "https://www.linkedin.com/in/zahir-din-6a6b8418b/"
     },
     {
-      "name": "YouTube",
+      "platform": "YouTube",
       "icon": "youtube",
+      "name": null,
       "url": null
+    },
+    {
+      "platform": "Dev.to",
+      "icon": "globe",
+      "name": "xcrone",
+      "url": "https://dev.to/xcrone"
     }
   ],
   "references": [
