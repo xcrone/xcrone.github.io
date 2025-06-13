@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Supplycart Tech Wiki
 
 ## Important Links
