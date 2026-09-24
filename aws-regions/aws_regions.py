@@ -16,7 +16,7 @@ import urllib.request
 
 PAGE_URL = "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/"
 BOTOCORE_URL = "https://raw.githubusercontent.com/boto/botocore/develop/botocore/data/endpoints.json"
-OUTPUT = os.path.join(os.path.dirname(__file__), "..", "aws-regions", "data.json")
+OUTPUT = os.path.join(os.path.dirname(__file__), "data.json")
 MIN_REGIONS = 30
 
 CONTINENTS_RE = re.compile(r'"continents":"((?:[^"\\]|\\.)*)"')
