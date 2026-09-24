@@ -1,0 +1,72 @@
+{
+  "partitions": [
+    {
+      "partition": "aws",
+      "regions": {
+        "us-east-1": {
+          "description": "US East (N. Virginia)"
+        },
+        "us-east-2": {
+          "description": "US East (Ohio)"
+        },
+        "ca-central-1": {
+          "description": "Canada (Central)"
+        },
+        "mx-central-1": {
+          "description": "Mexico (Central)"
+        },
+        "sa-east-1": {
+          "description": "South America (Sao Paulo)"
+        },
+        "ap-east-2": {
+          "description": "Asia Pacific (Taipei)"
+        },
+        "ap-southeast-4": {
+          "description": "Asia Pacific (Melbourne)"
+        },
+        "ap-southeast-5": {
+          "description": "Asia Pacific (Malaysia)"
+        },
+        "ap-southeast-6": {
+          "description": "Asia Pacific (New Zealand)"
+        },
+        "ap-southeast-7": {
+          "description": "Asia Pacific (Thailand)"
+        }
+      }
+    },
+    {
+      "partition": "aws-cn",
+      "regions": {
+        "cn-north-1": {
+          "description": "China (Beijing)"
+        }
+      }
+    },
+    {
+      "partition": "aws-us-gov",
+      "regions": {
+        "us-gov-east-1": {
+          "description": "AWS GovCloud (US-East)"
+        }
+      }
+    },
+    {
+      "partition": "aws-iso-b",
+      "regions": {
+        "us-isob-east-1": {
+          "description": "US ISOB East (Ohio)"
+        }
+      }
+    },
+    {
+      "partition": "aws-eusc",
+      "regions": {
+        "eusc-de-east-1": {
+          "description": "AWS European Sovereign Cloud (Germany)"
+        }
+      }
+    }
+  ],
+  "version": 3
+}
