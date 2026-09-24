@@ -23,10 +23,10 @@ jobs:
           python-version: '3.12'
 
       - name: Test
-        run: python -m unittest discover aws-regions
+        run: python -m unittest discover aws-regions/scripts
 
       - name: Scrape
-        run: python aws-regions/aws_regions.py
+        run: python aws-regions/scripts/aws_regions.py
 
       - name: Commit if changed
         run: |
