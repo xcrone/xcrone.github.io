@@ -1,6 +1,6 @@
 {
   "source": "https://aws.amazon.com/about-aws/global-infrastructure/regions_az/",
-  "generated_at": "2026-10-12T05:15:51Z",
+  "generated_at": "2026-10-19T04:01:20Z",
   "count": 41,
   "regions": [
     {
@@ -412,9 +412,9 @@
     },
     {
       "code": "us-west-1",
-      "name": "*text",
+      "name": "US West (Northern California)",
       "continent": "North America",
-      "partition": null,
+      "partition": "aws",
       "available": true,
       "availability_zones": 3,
       "launched": 2009,
